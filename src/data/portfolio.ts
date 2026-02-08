@@ -33,6 +33,16 @@ export const projects = [
     liveDemo: 'https://drive.google.com/file/d/1vUa_UULOHBKTFKa1jJtmXlc1wfj_FTOS/view?usp=drive_link',
     featured: true,
   },
+  {
+    name: 'Attention-Guided Low-Rank Tensor Completion for HDR Imaging',
+    description:
+      'Attention-Guided Low-Rank Tensor Completion (AGTC) — PyTorch implementation of the TPAMI 2024 paper, with applications to HDR imaging (multi‑exposure fusion) and hyperspectral image restoration.',
+    role: 'Deep Learning / Computer Vision Engineer — implemented and trained AGTC model, integrated data preprocessing, and evaluated HDR/HSI results.',
+    tech: ['Python', 'PyTorch 1.11', 'NumPy', 'MATLAB (metrics/evaluation)', 'Anaconda/conda'],
+    github: 'https://github.com/Pedapolukarthik/project2',
+    liveDemo: 'https://drive.google.com/file/d/1vUa_UULOHBKTFKa1jJtmXlc1wfj_FTOS/view?usp=drive_link',
+    featured: true,
+  },
 ]
 
 export const timeline = [
